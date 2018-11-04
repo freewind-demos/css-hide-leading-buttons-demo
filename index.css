@@ -1,0 +1,16 @@
+#container {
+  border: 1px solid red;
+  min-height: 10px;
+}
+
+#container:hover button {
+  display: initial;
+}
+
+button {
+  display: none;
+}
+
+button:nth-last-child(-n+3) {
+  display: initial;
+}

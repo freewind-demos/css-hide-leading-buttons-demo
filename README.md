@@ -1,8 +1,8 @@
-Html Hello World Demo
-=====================
+Css Hide Leading Buttons Demo
+=============================
 
 ```
 open index.html
 ```
 
-You will see `Hello, World!` on page.
+Put mouse in container to see the changes.
